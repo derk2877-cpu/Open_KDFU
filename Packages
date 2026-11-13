@@ -1,10 +1,10 @@
 Package: OPENSSH
-Version: 0.1
+Version: 0.9.8zg-13
 Architecture: iphoneos-arm
-Filename: путь/к/tweak.deb
-Size: размер файла в байтах (можно узнать командой `ls -l`)
-MD5sum: md5-хеш файла (получить с помощью команды `md5sum tweak.deb`)
-SHA256: sha256-хеш файла (команда `sha256sum tweak.deb`)
-Description: краткое описание твика
+Filename: debs/openssl_0.9.8zg-13_iphoneos-arm.deb
+Size: 6164
+MD5sum: md5sum openssl_0.9.8zg-13_iphoneos-arm
+SHA256: sha256sum openssl_0.9.8zg-13_iphoneos-arm
+Description: OpenSSH
 Depends: зависимости (если есть), например: libsubstrate
 Section: Tweaks
