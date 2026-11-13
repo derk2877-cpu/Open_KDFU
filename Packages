@@ -1,1 +1,10 @@
-
+Package: OPENSSH
+Version: 0.1
+Architecture: iphoneos-arm
+Filename: путь/к/tweak.deb
+Size: размер файла в байтах (можно узнать командой `ls -l`)
+MD5sum: md5-хеш файла (получить с помощью команды `md5sum tweak.deb`)
+SHA256: sha256-хеш файла (команда `sha256sum tweak.deb`)
+Description: краткое описание твика
+Depends: зависимости (если есть), например: libsubstrate
+Section: Tweaks
