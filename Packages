@@ -6,5 +6,5 @@ Size: 6164
 MD5sum: md5sum openssl_0.9.8zg-13_iphoneos-arm
 SHA256: sha256sum openssl_0.9.8zg-13_iphoneos-arm
 Description: OpenSSH
-Depends: зависимости (если есть), например: libsubstrate
+Depends: libsubstrate
 Section: Tweaks
